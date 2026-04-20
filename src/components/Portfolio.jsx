@@ -15,7 +15,7 @@ const Portfolio = () => {
         {
             id: 2,
             src: reactWeather,
-            // url: "https://your-second-project.vercel.app",
+            url: "https://aashutosh-joshi.vercel.app/",
         },
     ]
 
